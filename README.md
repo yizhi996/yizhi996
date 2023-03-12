@@ -9,10 +9,6 @@
 - Swift:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌕🌕🌗🌑🌑
 - Go:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌕🌕🌑🌑🌑
 
-### Currently work
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yizhi996&repo=evoker&theme=dark)](https://github.com/yizhi996/evoker)
-
 ### Stats
 
 [![YiZhi's github stats](https://github-readme-stats.vercel.app/api?username=yizhi996&theme=dark&show_icons=true&include_all_commits=true)](https://github.com/yizhi996)
