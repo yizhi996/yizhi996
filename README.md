@@ -1,13 +1,9 @@
 ### About me
 
-只上过小学，不上班4年啦，躺平等死中👴
+只上过小学，不上班快5年啦，躺平等死中👴
 
-### Languages
-
-- TypeScript:&nbsp;🌕🌕🌗🌑🌑
-- Vue:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌕🌕🌗🌑🌑
-- Swift:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌕🌕🌗🌑🌑
-- Go:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌕🌕🌑🌑🌑
+### Now
+最新项目 [Diablo 4 Marketplace](https://d4ok.com)
 
 ### Stats
 
