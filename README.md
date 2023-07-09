@@ -3,7 +3,13 @@
 只上过小学，不上班快5年啦，躺平等死中👴
 
 ### Now
-最新项目 [Diablo 4 Marketplace](https://d4ok.com)
+
+[Diablo 4 Marketplace](https://d4ok.com)
+
+### Projects 
+
+- [Evoker](https://github.com/yizhi996/Evoker) 💩💩
+- [AsyncDrawingKit](https://github.com/yizhi996/AsyncDrawingKit) 💩💩💩💩
 
 ### Stats
 
