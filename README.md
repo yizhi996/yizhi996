@@ -1,15 +1,12 @@
 ### About me
 
-只上过小学，不上班快5年啦，躺平等死中👴
-
-### Now
-
-[Diablo 4 Marketplace](https://d4ok.com)
+只上过小学，不上班快5年啦，躺平等死中👴（快要死了，找工作）
 
 ### Projects 
-
-- [Evoker](https://github.com/yizhi996/Evoker) 💩💩
-- [AsyncDrawingKit](https://github.com/yizhi996/AsyncDrawingKit) 💩💩💩💩
+- [Turtle Shell](https://plashspeed.top/turtle) 魔兽世界乌龟服插件管理器 [Future Open Source]
+- [Diablo 4 Marketplace](https://d4ok.com) 暗黑破坏神4交易所 💩 [Close Source]
+- [Evoker](https://github.com/yizhi996/Evoker) 小程序引擎 💩💩
+- [AsyncDrawingKit](https://github.com/yizhi996/AsyncDrawingKit) iOS 异步渲染 💩💩💩💩
 
 ### Stats
 
