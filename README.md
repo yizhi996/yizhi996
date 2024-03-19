@@ -4,7 +4,7 @@
 
 ### Projects 
 #### Close Source
-- [Turtle Shell](https://plashspeed.top/turtle) 魔兽世界乌龟服插件管理器 [TS & Vue & Electron & Mongodb]
+- [Turtle Shell](https://plashspeed.top/turtle) 魔兽世界乌龟服插件管理器 [TS & Vue & Electron & MongoDB]
 
 #### Open Source
 - [Meeting](https://github.com/yizhi996/Meeting) 魔兽世界乌龟服集合石 [Lua] 💩
