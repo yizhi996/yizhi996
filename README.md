@@ -13,4 +13,4 @@
 
 ### Views
 
-![](https://plashspeed.top/turtle/client/github)
+![](https://plashspeed.top/turtle/client/github.svg)
