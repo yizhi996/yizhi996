@@ -13,4 +13,4 @@
 
 ### Views
 
-![](https://profile-counter.glitch.me/yizhi996/count.svg)
+![](https://plashspeed.top/turtle/client/github)
